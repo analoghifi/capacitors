@@ -31,7 +31,7 @@ Q = 1 / tanδ
 
 Understanding basic technical data of capacitors:  
 https://www.wima.de/en/service/knowledge-base/basic-technical-data-of-capacitors/  
-see as well: <a href="/big electrolytic capacitors/docs/related/Krummer_General_Information_Capacitor_Parameters.pdf">Krummer_General_Information_Capacitor_Parameters.pdf</a> (but more electrolytic cap related)  
+see as well: <a href="/big electrolytic capacitors/docs/related/Krummer_General_Information_Capacitor_Parameters_DE_EN.pdf">Krummer_General_Information_Capacitor_Parameters_DE_EN.pdf</a> (but more electrolytic cap related)  
 and:  
 <a href="/What is a Capacitor - basic concepts and formulae.pdf">What is a Capacitor - basic concepts and formulae</a>  
 from here -> <a href="https://www.electronics-notes.com/articles/basic_concepts/capacitance/capacitance.php">Original (7 Parts)</a>  
