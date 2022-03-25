@@ -44,7 +44,7 @@ e.g. the (105°C) series 'Krummer' 311LC and 313EC (ultra compact) have excellen
 ----
 
 Understanding basic capacitor parameters:  
-<a href="docs/related/Krummer_General_Information_Capacitor_Parameters.pdf">Krummer_General_Information_Capacitor_Parameters.pdf</a>  
+<a href="docs/related/Krummer_General_Information_Capacitor_Parameters_DE_EN.pdf">Krummer_General_Information_Capacitor_Parameters_DE_EN.pdf</a>  
 see as well: https://www.wima.de/en/service/knowledge-base/basic-technical-data-of-capacitors/ (but more foil capacitor related)  
 and:  
 <a href="/What is a Capacitor - basic concepts and formulae.pdf">What is a Capacitor - basic concepts and formulae</a>  
