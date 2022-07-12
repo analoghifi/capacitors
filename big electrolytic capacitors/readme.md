@@ -37,7 +37,7 @@ figures for 'Rubycon' 63ZLJ2200M16X40 (ZLJ series): 2200uF 63V / 16×40mm / 4,1A
 Some manufacturers, e.g. 'Krummer' sometimes write very conservative figures for MTBF\*\* in their datasheets,  
 which relate to operation with nominal (high) ripple current and/or high temperatures,  
 so take a close look at the data sheet there...  
-e.g. the (105°C) series 'Krummer' 311LC and 313EC (ultra compact) have excellent values and MTBF\* rates if you read the data sheet carefully.  
+e.g. the (105°C) series 'Krummer' 311LC and 313EC (ultra compact) have excellent values and MTBF\*\* rates if you read the data sheet carefully.  
 
 \*\*(MTBF = \"mean time between failures\" = expected operating time of the capacitor (under its normal DC- and load-level))  
 
