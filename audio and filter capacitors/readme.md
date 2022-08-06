@@ -1,6 +1,8 @@
 ### audio and filter capacitors  
 capacitors which are located directly within the audio signal path or in audio filter circuits\*,  
 The most difficult and delicate components when it comes to NOT affecting the sound quality.  
+(read this series of engineering- and sience- based articles if you don't believe that capacitors can affect sound quality -> <a href="https://github.com/analoghifi/capacitors/tree/main/audio%20and%20filter%20capacitors/docs/capacitor%20sound">capacitor sound</a>)
+
    
 #### main requirements:
  - non polarized  
