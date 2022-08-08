@@ -11,4 +11,4 @@ The new article appeared in Linear Audio Volume 9.
   
 Sadly, Cyril passed away early 2015 after a life of contributing to technical progress.
 
-Jan Didden
+Jan Didden (on linearaudio.nl)
