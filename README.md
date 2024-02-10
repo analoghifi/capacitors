@@ -9,7 +9,7 @@ The most difficult and delicate components when it comes to NOT affecting the so
 (read this series of engineering- and sience- based articles if you don't believe that capacitors can affect sound quality -> <a href="https://github.com/analoghifi/capacitors/tree/main/audio%20and%20filter%20capacitors/docs/capacitor%20sound">capacitor sound</a>)  
    
 #### main requirements:
- - non polarized  
+ - non polarized capacitor  
  - non-polar dielectric
  - very low dissipation factor "tan δ" (= low loss) (e.g. tanδ = 0.0002 .. 0.0006 \[@1kHz\] or better)\*\* \[the lower the better\]
  - lowest possible frequency dependency of the dissipation factor (within the audio range)  
