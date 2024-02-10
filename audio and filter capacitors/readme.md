@@ -25,6 +25,7 @@ but film/foil types are not always available especially with higher capacitance 
 \*\*( tanδ:&nbsp;&nbsp;&nbsp;0.0002 .. 0.0006 == 0.02% .. 0.06% == 0.2x10<sup>-3</sup> .. 0.6x10<sup>-3</sup> == 2x10<sup>-4</sup> .. 6x10<sup>-4</sup> )  
 
 ----
+#### better MKP's:
 in recent years, MKP capacitors have become better and better, and in some cases are in no way inferior to KP (film/foil) capacitors  
 e.g.:  
 * all Mundorf MKP Series  tanδ = 0.0002 @ 1kHz
