@@ -46,6 +46,14 @@ e.g:
 * CDE WPP-Series (you cannot read the exceptionally low tanδ value from the data sheet / only measurements reveal it)
 * Mundorf MCap ZN Classic tanδ = 0.00002 @ 1kHz (factor 10 better than the best MKP's)
 
+
+----
+#### old (NOS) WIMA KP Series:  
+the old (NOS) WIMA KP (film/foil) Series FKP02 / FKP2 / FKP3 / FKP4 are better (lower tanδ) than the new ones:  
+(compare the datasheets)  
+* old = NOS = "New Old Stock" -> non ROHS conform: [old FKP2](https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/kp/WIMA_FKP_2__OLD_nonROHS__EN.pdf) / [old FKP3](https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/kp/WIMA_FKP3_OLD_nonROHS__EN.pdf)  
+* new -> ROHS conform: [new FKP2](https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/kp/WIMA_FKP_2__NEW_ROHS__EN.pdf) / [new FKP3](https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/kp/e_WIMA_FKP_3.pdf)
+
 ----
 tanδ = ESR * (2π * f * C)  
 ESR = tanδ / (2π  *  f  *  C)  
