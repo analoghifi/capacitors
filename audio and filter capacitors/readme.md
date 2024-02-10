@@ -38,6 +38,7 @@ bigger ones:
 * KEMA PHE R76 tanδ = 0.0003 @ 1kHz
 * KEMA PHE R75H tanδ = 0.0004 @ 1kHz
 * KEMA PHE 426 tanδ = 0.0005 @ 1kHz
+* WIMA MKP2 tanδ = 0.0005 @ 1kHz
 * WIMA MKP4 / MKP10 tanδ = 0.0006 @ 1kHz
   
 only "high-end" KP capacitors (film/foil) can still surpass this, but these are almost no longer available on the market  
