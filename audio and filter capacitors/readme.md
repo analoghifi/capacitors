@@ -6,7 +6,7 @@ The most difficult and delicate components when it comes to NOT affecting the so
    
 #### main requirements:
  - non polarized  
- - very low dissipation factor "tan δ" (= low loss) (e.g. tanδ = 0.0003 .. 0.0005 \[@1kHz\] or better)\*\* \[the lower the better\]
+ - very low dissipation factor "tan δ" (= low loss) (e.g. tanδ = 0.0002 .. 0.0006 \[@1kHz\] or better)\*\* \[the lower the better\]
  - lowest possible frequency dependency of the dissipation factor (within the audio range)  
  - high accuracy (important for filter circuits\* only - e.g. 1%)  
  - lowest possible frequency dependence of the capacitance
@@ -21,7 +21,7 @@ film/foil constructions \[KP/KS\] usually show better performance than metallize
 but film/foil types are not always available especially with higher capacitance values (than we choose good \[MKP\]-types).  
   
 \*(filter circuits like RIAA-filters (RIAA-preamps), active crossovers and passive crossovers)  
-\*\*( tanδ:&nbsp;&nbsp;&nbsp;0.0003 .. 0.0005 == 0.03% .. 0.05% == 0.3x10<sup>-3</sup> .. 0.5x10<sup>-3</sup> == 3x10<sup>-4</sup> .. 5x10<sup>-4</sup> )  
+\*\*( tanδ:&nbsp;&nbsp;&nbsp;0.0002 .. 0.0006 == 0.02% .. 0.06% == 0.2x10<sup>-3</sup> .. 0.6x10<sup>-3</sup> == 2x10<sup>-4</sup> .. 6x10<sup>-4</sup> ) 
 
 ----
 
