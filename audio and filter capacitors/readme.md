@@ -29,9 +29,9 @@ but film/foil types are not always available especially with higher capacitance 
 in recent years, MKP capacitors have become better and better, and in some cases are in no way inferior to KP (film/foil) capacitors  
 e.g.:  
 * all Mundorf MKP Series  tanδ = 0.0002 @ 1kHz
-* RIFA (now KEMET) PHE 425 \[1% tol. avaiable\] tanδ = 0.0003 @ 1kHz
-* Vishay MKP 1837 \[1% tol. avaiable\] tanδ = 0.0004 @ 1kHz
-* Vishay MKP 1839 \[1% tol. avaiable\] tanδ = 0.0004 @ 1kHz  
+* RIFA (now KEMET) PHE 425 \[1% tol. available\] tanδ = 0.0003 @ 1kHz
+* Vishay MKP 1837 \[1% tol. available\] tanδ = 0.0004 @ 1kHz
+* Vishay MKP 1839 \[1% tol. available\] tanδ = 0.0004 @ 1kHz  
 
 bigger ones:
 * KEMA PHE 450 tanδ = 0.0003 @ 1kHz
