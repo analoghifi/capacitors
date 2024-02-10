@@ -6,6 +6,7 @@ The most difficult and delicate components when it comes to NOT affecting the so
    
 #### main requirements:
  - non polarized  
+ - non-polar dielectric
  - very low dissipation factor "tan δ" (= low loss) (e.g. tanδ = 0.0002 .. 0.0006 \[@1kHz\] or better)\*\* \[the lower the better\]
  - lowest possible frequency dependency of the dissipation factor (within the audio range)  
  - high accuracy (important for filter circuits\* only - e.g. 1%)  
