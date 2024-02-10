@@ -16,7 +16,8 @@ The most difficult and delicate components when it comes to NOT affecting the so
  - lowest possible capacitor self-inductance (ESL)
 
 suitable dielectrics for these requirements are:  
-Polypropylene \[KP/MKP\] | Polystyrene (a.k.a."Styroflex")\[KS\] | Mica (a.k.a "Glimmer") | C0G(NP0)-ceramic  
+Polypropylene \[KP/MKP\] | Polystyrene (a.k.a."Styroflex")\[KS\] | Mica (a.k.a "Glimmer") | C0G(NP0)-ceramic  |  
+Polysulfone | PTFE (the last two mentioned are almost impossible to find on the market)
 
 film/foil constructions \[KP/KS\] usually show better performance than metallized film types \[MKP\], in terms of the dissipation factor "tan δ" (lower and less frequency dependent),  
 but film/foil types are not always available especially with higher capacitance values (than we choose good \[MKP\]-types).  
