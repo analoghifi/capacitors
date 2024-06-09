@@ -19,12 +19,21 @@ The most difficult and delicate components when it comes to NOT affecting the so
  - NO piezoelectric effect / microphonic effect at all
  - lowest possible capacitor self-inductance (ESL)
 
-suitable dielectrics for these requirements are:  
-Polypropylene \[KP/MKP\] | Polystyrene (a.k.a."Styroflex")\[KS\] | Mica (a.k.a "Glimmer") | C0G(NP0)-ceramic  |  
-Polysulfone | PTFE (the last two mentioned are almost impossible to find on the market)
+.    
+  
+<strong>suitable dielectrics</strong> for these requirements are:  
+ - Polypropylene \[KP/MKP\]  
+ - Polystyrene (a.k.a."Styroflex")\[KS\]  
+ - Mica (a.k.a "Glimmer")  
+ - C0G(NP0)-ceramic  
+ - Polysulfone  
+ - PTFE
 
+(the last two mentioned are almost impossible to find on the market)  
+.    
+  
 film/foil constructions \[KP/KS\] usually show better performance than metallized film types \[MKP\], in terms of the dissipation factor "tan δ" (lower and less frequency dependent),  
-but film/foil types are not always available especially with higher capacitance values (than we choose good \[MKP\]-types).  
+but film/foil types are not always available these days especially with higher capacitance values (then we choose good \[MKP\]-types).  
   
 \*(filter circuits like RIAA-filters (RIAA-preamps), active crossovers and passive crossovers)  
 \*\*( tanδ:&nbsp;&nbsp;&nbsp;0.0002 .. 0.0006 == 0.02% .. 0.06% == 0.2x10<sup>-3</sup> .. 0.6x10<sup>-3</sup> == 2x10<sup>-4</sup> .. 6x10<sup>-4</sup> )  
