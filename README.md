@@ -23,9 +23,9 @@ The most difficult and delicate components when it comes to NOT affecting the so
   
 <strong>suitable dielectrics</strong> for these requirements are:  
  - Polypropylene \[KP/MKP\]  
- - Polystyrene (a.k.a."Styroflex")\[KS\]  
+ - Polystyrene (a.k.a."Styroflex") \[KS\]  
  - Mica (a.k.a "Glimmer")  
- - C0G(NP0)-ceramic  
+ - C0G (NP0) -ceramic  
  - Polysulfone  
  - PTFE
 
